@@ -1,8 +1,6 @@
 # Diabetes Prediction Using Machine Learning 🏥
 
-## Watch the Demo 📺
 
-[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/l2WEjcAe3Hc)
 
 ![Image](https://github.com/user-attachments/assets/b6c30039-e65a-42a4-86a9-1163f3868b39)
 
@@ -69,8 +67,7 @@ The project includes a **Streamlit web app** that allows users to input health p
 - Add more machine learning models for comparison
 - Deploy as a web service using Flask or FastAPI
 
-## Author ✍️
-- **DataScientist00**
+
 - Kaggle: [Profile](https://www.kaggle.com/codingloading)
 
 ---
